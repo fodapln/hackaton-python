@@ -1,0 +1,3 @@
+pandas==2.2.2
+beautifulsoup==4.12.3
+requests==2.32.3
